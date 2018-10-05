@@ -1,6 +1,6 @@
 Safety Concern:
 
-Triggers precipitating crisis and/or triggers that intensify it (list 3):<br><br><br><br>
+Triggers precipitating crisis and/or triggers that intensify it (list 3):<br/><br/><br/><br/>
 
 Coping skills to improve state of mind (list 3):<br><br><br><br>
 
