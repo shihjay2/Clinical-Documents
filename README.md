@@ -12,6 +12,16 @@ Click on the links to print out the latest version of the documents.
 
 [Home Blood Pressure Monitoring](http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/ucm_445846.pdf)
 
+[Foot and Ankle Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_foot-and-ankle.pdf)
+
+[Hip Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_hip.pdf)
+
+[Knee Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_knee.pdf)
+
+[Shoulder Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_shoulder.pdf)
+
+[Spine Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_spine.pdf)
+
 [Suicide Safety Plan](https://gitprint.com/shihjay2/Clinical-Documents/blob/master/Suicide_Safety_Plan.md)
 
 
