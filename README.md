@@ -8,6 +8,8 @@ Click on the links to print out the latest version of the documents.
 
 [Bright Futures Well Child Handouts - Spanish](https://github.com/shihjay2/Clinical-Documents/blob/master/BrightFuturesSpanish.md)
 
+[Concussion Assessment Tool](https://github.com/shihjay2/Clinical-Documents/blob/master/SCAT5_Concussion_Assessment_Tool.pdf)
+
 [Suicide Safety Plan](https://gitprint.com/shihjay2/Clinical-Documents/blob/master/Suicide_Safety_Plan.md)
 
 
