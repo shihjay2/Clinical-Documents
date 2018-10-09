@@ -10,6 +10,8 @@ Click on the links to print out the latest version of the documents.
 
 [Concussion Assessment Tool](https://github.com/shihjay2/Clinical-Documents/blob/master/SCAT5_Concussion_Assessment_Tool.pdf)
 
+[Home Blood Pressure Monitoring](http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/ucm_445846.pdf)
+
 [Suicide Safety Plan](https://gitprint.com/shihjay2/Clinical-Documents/blob/master/Suicide_Safety_Plan.md)
 
 
