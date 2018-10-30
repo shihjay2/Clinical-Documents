@@ -21,7 +21,7 @@
 ## PhraseExpress
 1. Open PhraseExpress and click on **New Phrase** in your folder.
 2. Name **Description** and accent phrase in **Autotext** to anything you like.  I chose ``pe` for me
-3. In **Phrase content**, copy the entire content of this file.
+3. In **Phrase content**, copy the entire content of [this file](https://raw.githubusercontent.com/shihjay2/Clinical-Documents/master/PhraseExpress-PE).
 4. To customize it, you can edit all the text *outside of the curly brackets* to your liking
 
 ## Customize
