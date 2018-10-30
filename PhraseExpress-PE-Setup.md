@@ -17,3 +17,11 @@
 15. in **With:** box, type in (copy-paste from here) `{JUMP_TO_TAB('Gen-HEENT')}`
 16. Click **Add**.
 17. Click **X** to exit the Preferences window.
+
+## PhraseExpress
+1. Open PhraseExpress and click on **New Phrase** in your folder.
+2. Name **Description** and accent phrase in **Autotext** to anything you like.  I chose ``pe` for me
+3. In **Phrase content**, copy the entire content of this file.
+4. To customize it, you can edit all the text *outside of the curly brackets* to your liking
+
+## Customize
