@@ -26,4 +26,6 @@ Click on the links to print out the latest version of the documents.
 
 [Suicide Safety Plan](https://gitprint.com/shihjay2/Clinical-Documents/blob/master/Suicide_Safety_Plan.md)
 
+[Oregon POLST Form](http://static.squarespace.com/static/52dc687be4b032209172e33e/t/542ecc87e4b0158794be4454/1412353159011/2014.10.02%20Printing%20POLST%20instructions.pdf)
+
 
