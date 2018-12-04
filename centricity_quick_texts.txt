@@ -1,0 +1,20 @@
+.start
+{PATIENT.FIRSTNAME} is a {PATIENT_AGE()} year old {If PATIENT.SEX == "M" , "male", if PATIENT.SEX == "F", "female", if PATIENT.SEX == "", "undetermined individual" } here for
+
+.plancryo
+PARQ held for liquid nitrogen treatment. Discussed alternatives. 3 freeze-thaw cycles done for 30 sec freeze each. Wound care reviewed. Tolerated well. No complications.
+
+.planhip
+PARQ held for a trochanteric bursa injection.  Informed consent obtained.  Hip prepped in sterile fashion.  Ethyl chloride spray used for skin anesthesia.  5 mL of 1% lidocaine and 40 mg of Kenalog in one syringe injected without difficulty into the trochanteric bursa.  Bandage placed.  Discussed aftercare instructions.  Patient to report any complications. 
+
+.planlac
+PARQ held for laceration repair.  Local anesthesia performed with 2% Lidocaine with epinephrie.  Wound clenased, debrided of visable foreign material and necrotic tissue, and sutured with 5-0 Nylon.  antibiotic ointment and dressing applied.  Wound care instructions provided.  Observe for any signs of infection or other problems.  Return for suture removal in 7 days.
+
+.plannail
+PARQ held for partial nail avulsion. Informed consent obtained. Digital block performed with approximately 5 cc 1% lidocain with epi. Betadine prep. Nail separator used under lateral 1/3 of toenail to separate nail from bed. Nail clippers used to divide nail longitudinally. Hemostat used to grasp and remove nail. No complications. Antibiotic ointment and bandage applied. Wound care discussed. Followup as needed.
+
+.planshoulder
+PARQ held for a subacromial bursa injection.  Informed consent obtained.  Shoulder prepped in sterile fashion.  Ethyl chloride spray used for skin anesthesia.  5 mL of 1% lidocaine and 40 mg of Kenalog in one syringe injected without difficulty into the subacromial bursa.  Bandage placed.  Discussed aftercare instructions.  Patient to report any complications.
+
+.orad
+{NEWORDER("Xray - most common")}
