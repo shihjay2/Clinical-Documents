@@ -1,6 +1,66 @@
 .start
 {PATIENT.FIRSTNAME} is a {PATIENT_AGE()} year old {If PATIENT.SEX == "M" , "male", if PATIENT.SEX == "F", "female", if PATIENT.SEX == "", "undetermined individual" } here for
 
+.avsanti
+Once you start taking the antibiotic, complete the entire course of antibiotics as instructed.
+
+.avsbrat
+You are recommended to start a BRAT diet: bananas, rice, applesauce, and/or toast.
+
+.avsend
+Don't hesitate to contact me if you any questions or if your symptoms do not improve.
+
+.avsfluids
+Make sure you drink plenty of fluids (at least 64 ounces per day) and rest.
+
+.avsheat
+You can use heat for 10-15 minutes up to 3-5 times a day.
+
+.avsheat1
+After 2-3 days, you can start use heat for 10-15 minutes up to 3-5 times a day.
+
+.avsibu600
+You can take Ibuprofen 600 mg every 6 hours as needed for pain.
+
+.avsibu800
+You can take Ibuprofen 800 mg every 8 hours as needed for pain.
+
+.avsice
+You can use ice for 10-15 minutes up to 3-5 times a day.
+
+.avsiceheat
+You can use ice alternating with heat for 10-15 minutes up to 3-5 times a day.
+
+.avsinfect
+If any increase in redness, pain, discharge, or swelling, let us know right away.
+
+.avslab
+I will contact you with your lab results as soon as they become available.
+
+.avsneti
+You can use a neti pot (fill with warm tap water mixed with 1/4 teaspon of non-iodized salt) once daily.
+
+.avsprobiotic
+You can take a probiotic (Culturelle, which is over-the-counter) at least once daily.
+
+.avstylenol
+You use Tylenol 1000 mg every 6 hours as needed for pain or fever.
+
+.bill
+{NEWORDER("GreenField Fee Ticket")}
+
+.nextappt
+{APPT_NEXT()}
+
+.hx
+history
+
+.orad
+{NEWORDER("Xray - most common")}
+
+.objrad
+Awaiting radiology interpretation.
+
 .plancryo
 PARQ held for liquid nitrogen treatment. Discussed alternatives. 3 freeze-thaw cycles done for 30 sec freeze each. Wound care reviewed. Tolerated well. No complications.
 
@@ -16,5 +76,4 @@ PARQ held for partial nail avulsion. Informed consent obtained. Digital block pe
 .planshoulder
 PARQ held for a subacromial bursa injection.  Informed consent obtained.  Shoulder prepped in sterile fashion.  Ethyl chloride spray used for skin anesthesia.  5 mL of 1% lidocaine and 40 mg of Kenalog in one syringe injected without difficulty into the subacromial bursa.  Bandage placed.  Discussed aftercare instructions.  Patient to report any complications.
 
-.orad
-{NEWORDER("Xray - most common")}
+
