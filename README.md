@@ -20,6 +20,8 @@ Click on the links to print out the latest version of the documents.
 
 [Knee Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_knee.pdf)
 
+[Medicare AWV HRA Form](https://github.com/shihjay2/Clinical-Documents/blob/master/fpm20120300p11-rt1.pdf)
+
 [Shoulder Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_shoulder.pdf)
 
 [Spine Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_spine.pdf)
@@ -28,5 +30,5 @@ Click on the links to print out the latest version of the documents.
 
 [Oregon POLST Form](http://static.squarespace.com/static/52dc687be4b032209172e33e/t/542ecc87e4b0158794be4454/1412353159011/2014.10.02%20Printing%20POLST%20instructions.pdf)
 
-[Medicare AWV HRA Form](https://github.com/shihjay2/Clinical-Documents/blob/master/fpm20120300p11-rt1.pdf)
+[Yoga, Physical Therapy, and Education for Chronic Low Back Pain](https://github.com/shihjay2/Clinical-Documents/blob/master/yoga_back_pain.pdf)
 
