@@ -12,6 +12,8 @@ Click on the links to print out the latest version of the documents.
 
 [Concussion Assessment Tool](https://github.com/shihjay2/Clinical-Documents/blob/master/SCAT5_Concussion_Assessment_Tool.pdf)
 
+[Eating Disorders Admissions Criteria](https://github.com/shihjay2/Clinical-Documents/blob/master/EDO_Admission_Criteria.md)
+
 [Home Blood Pressure Monitoring](http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/ucm_445846.pdf)
 
 [Foot and Ankle Rehab Exercises](https://orthoinfo.aaos.org/globalassets/pdfs/2017-rehab_foot-and-ankle.pdf)
