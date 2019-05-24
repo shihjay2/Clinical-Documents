@@ -11,3 +11,7 @@
 * For non-competitive athletes, do not exceed 60 minutes of exercise, 6 days/week.  If someone is comfortable exerciseing less, do not encourage them to increase exercise.
 * No running or other high impact activities if patient has secondary amenorrhea, has just resumed menses, or has primary amenorrhea and in the doctor's estimation pt is physically mature enough to have started menstruating.
 * DEXA scans need to be done annually; this is especially important for patients with osteopenia and osteoporosis. (Baseline DEXA scans should be edone on any patient with 6 months or greater of amenorrhea or chornic oligomenorrhea or delayed menarche)
+
+**For Competitive Athletes:**
+* When patient is at 100% of minimum weight for health and has had 3 consecutive menses (females) , then the type of activity may be liberalized to include high impact activities (eg ballet, basektball, soccer, running), BUT the number of hours should be resticted to 6-15 hours/week.  If the activity is less aerobic tahn dancing or gynmastics, the limit could be set at 12-15 hours/week.
+* For males, testosterone levels need to be normal, and patient needs to be 100% of MWH in order to liberalize the type of activity and to go beyond 1 hr/day, 6 days/week.
